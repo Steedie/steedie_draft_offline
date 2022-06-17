@@ -1,0 +1,116 @@
+Poge	1	1
+Stouty	2	1
+Miyamoto	2	1
+Xeonyz1	2	1
+Honda	2	1
+Redblue	3	1
+The Lord	4	1
+Juris	4	1
+Stolly	4	1
+Elk	5	1
+Aureate	5	1
+Beef	5	1
+Oldnoob	5	1
+Gowen	5	1
+Sol	1	0
+Lohcke	1	0
+Sunglasses	1	0
+Oni	1	0
+Stinky	2	0
+Monky	2	0
+Flame	2	0
+Tarantyst	2	0
+Shady	3	0
+daWASTI	3	0
+Tatkimay	3	0
+Rhubein	3	0
+Sammon	3	0
+Frediburgers	3	0
+Slayer Hans	3	0
+Huang	3	0
+Law and Order	3	0
+Kavinsky	3	0
+Proxanis	3	0
+Waylander	3	0
+Thryber	3	0
+Teronik	3	0
+Potato	3	0
+Ring	3	0
+Eighty	3	0
+Insane	3	0
+Hawkdownn	3	0
+Devilstro	3	0
+Tekkers	3	0
+Sushiio	3	0
+Doflamingo	4	0
+Smile	4	0
+Ivaar	4	0
+Sensei	4	0
+Rynkk	4	0
+Thomas	4	0
+Dan	4	0
+Givebread	4	0
+Popix	4	0
+Derpa	4	0
+Erich	4	0
+Rokus	4	0
+Pug	4	0
+Reuben	4	0
+Moto Moto	4	0
+Maxy	4	0
+Gamble Victim	4	0
+Piggy	4	0
+Live_Shank	4	0
+Visceral Wanker	4	0
+Hatchet	4	0
+Yes	4	0
+2d	4	0
+Afigenus	4	0
+Gurraa	4	0
+Nietsmmar	4	0
+Sniffles	4	0
+NathookNA	4	0
+ShtabbeNA	4	0
+Svitch	4	0
+Urebeat	4	0
+Siisti	4	0
+Kokeo	4	0
+Charles Martel	4	0
+Potominkus	4	0
+FaQ	4	0
+DiamondNA	5	0
+200kg Jonko	5	0
+Aory	5	0
+Jew	5	0
+Rex	5	0
+Miller	5	0
+Tirion	5	0
+Aproxy	5	0
+Mozzarella	5	0
+Kopatich	5	0
+Lukas	5	0
+Brod	5	0
+Bk	5	0
+Pierre	5	0
+Viper	5	0
+Cheesemonster	5	0
+Korner	5	0
+Paloudi	5	0
+Dago	5	0
+Sandvich	5	0
+Anechka	5	0
+Reax	5	0
+Judicator	5	0
+Rackade	6	0
+XRader	6	0
+Leta	6	0
+Hydra	6	0
+An flock of goose	6	0
+Tunnel	6	0
+Oddforester	6	0
+Sentine	6	0
+Setup	6	0
+Rossolini	6	0
+Esarhaddon	6	0
+TBE Triple Hernan3817	6	0
+Frisky	6	0
